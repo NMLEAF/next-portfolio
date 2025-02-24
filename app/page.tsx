@@ -1,3 +1,5 @@
-export default function Home() {
-  return <div className="">Hello</div>;
-}
+const page = () => {
+  return <div>Test commit</div>;
+};
+
+export default page;
